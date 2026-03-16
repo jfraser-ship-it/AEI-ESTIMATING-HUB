@@ -77,6 +77,6 @@ If you need to change anything later:
 
 ---
 
-## Need help?
+## Need help? 
 
 Ask Claude to help with any step — just paste the error message you see.
